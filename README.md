@@ -13,3 +13,7 @@ title, and fill out your answers under the
 lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
 **Say Hello to HTML Elements**
+
+### Basic JavaScript
+ **Replace loops using Recursion**
+- In this section I struggled with getting used to not having to write out the loop it felt like something was missing by not seeing a loop there, but the more I practiced using the recursion I started to really like it and understand it's concept it made everything easier to write and it made the coding go faster.
