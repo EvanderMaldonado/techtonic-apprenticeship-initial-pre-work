@@ -1,0 +1,23 @@
+#columns {
+    display: flex;
+    width: 1000px;
+    height: 1000px;
+}
+
+.column-1 {
+    background-color: grey;
+    width: 75%;
+    height: 75%;
+    font-size: 30px;
+}
+
+.column-2 {
+    background-color: grey;
+    width: 75%;
+    height: 75%;
+    font-size: 30px;
+}
+
+.p{
+    font-size: 20px;
+}
