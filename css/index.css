@@ -37,9 +37,34 @@ li {
 }
 
 h1{
-    color: purple;
+    color: rgb( 255, 166, 253);
 }
 .cyborg{
     width: 20%;
     height: 30%;
+}
+
+#nav {
+    background-color: rgb(110, 114, 126);
+}
+
+.early {
+    border-color: rgb(9, 27, 44);
+    border-width: 2px;
+    border-style: solid;
+    background-color: rgb(78, 236, 215);
+}
+
+.more {
+    border-color: rgb(8, 124, 231);
+    border-width: 2px;
+    border-style: solid;
+    background-color:rgb(148, 247, 55);
+}
+
+.info{
+    border-color: rgb(157, 9, 170);
+    border-width: 2px;
+    border-style: solid;
+    background-color: rgb(228, 197, 129);
 }
