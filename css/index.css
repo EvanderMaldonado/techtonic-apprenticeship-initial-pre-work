@@ -1,23 +1,45 @@
 #columns {
-    display: flex;
-    width: 1000px;
-    height: 1000px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 5px;
+}
+body {
+    background-color: indigo;
 }
 
 .column-1 {
-    background-color: grey;
-    width: 75%;
-    height: 75%;
-    font-size: 30px;
+    background-color: rgb(126, 55, 55);
+    width: 100%;
+    height: 100%;
+    font-size: 28px;
+    
 }
 
 .column-2 {
-    background-color: grey;
-    width: 75%;
-    height: 75%;
-    font-size: 30px;
+    background-color: rgb(121, 58, 58);
+    width: 100%;
+    height: 100%;
+    font-size: 28px;
+    
 }
 
-.p{
+.p {
     font-size: 20px;
+}
+
+.Darth {
+    width: 20%;
+    height: 30%;
+}
+
+li {
+    font-size: 20px;
+}
+
+h1{
+    color: purple;
+}
+.cyborg{
+    width: 20%;
+    height: 30%;
 }
