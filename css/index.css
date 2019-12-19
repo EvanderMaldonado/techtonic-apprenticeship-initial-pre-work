@@ -53,34 +53,29 @@ h1{
     background-color: rgb(216, 221, 236);
     height: 50px;
     padding-top: 25px;
+    color: red;
 }
 
 .early {
-    border-color: black;
-    border-width: 3px;
-    border-style: solid;
     padding: 5px;
     margin: 15px;
     font-size: 20px;
+    color: red;
 }
 
 .more {
-    border-color: black;
-    border-width: 3px;
-    border-style: solid;
     padding: 5px;
     margin: 8px;
     font-size: 20px;
-
+    color: red;
 }
 
 .info {
-    border-color: black;
-    border-width: 3px;
-    border-style: solid;
     padding: 5px;
     margin: 10px;
     font-size: 20px;
+    color: red;
+    
 }
 
 .foot {
@@ -92,12 +87,17 @@ h1{
     color: white;
     font-size: 25px;
     padding-bottom: 20px;
+    text-align: center;
 }
 
-.h4 {
-    background-color:grey;
+h4 {
+    background-color:rgb(165, 33, 33);
     text-align: center;
     margin: 0px;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.a {
+    color:rgb(146, 143, 156)
 }
